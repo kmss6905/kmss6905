@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## I'm minshik kim.
 
 ### 💻 &nbsp;About Me 
