@@ -1,4 +1,6 @@
 # I'm Kim Min-sik, the developer who records.
+## 기록하는 개발자 김민식입니다.
+### Development is my LIFE.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkmss6905&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ### 💻 &nbsp;About Me 
