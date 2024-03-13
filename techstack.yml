@@ -1,0 +1,20 @@
+repo_name: kmss6905/kmss6905
+report_id: c2b55f92ab3b9e25d310d42ad587b532
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-13T07:21:58+00:00'
+requested_by: kmss6905
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/kmss6905/kmss6905
+  detection_source: Repo Metadata
