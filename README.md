@@ -14,6 +14,7 @@ A dedicated Java backend developer with concentrated experience at a single star
 - **Containers & Orchestration:** Docker, Docker Compose
 - **API Development:** RESTful APIs
 - **Monitoring & Logging:** ELK Stack (Elasticsearch, Logstash, Kibana), Pinpoint
+- **Performence Tool** : JMeter
 - **CI/CD:** Jenkins, GitHub Actions
 
 <br>
