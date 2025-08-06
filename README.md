@@ -5,9 +5,9 @@ A dedicated Java backend developer with concentrated experience at a single star
 
 ## 🚀 Skills & Tools
 
-- **Programming:** Java 17
+- **Programming Language:** Java 17
 - **Frontend:** Vue.js
-- **Backend Frameworks & Library:** Spring Boot MVC, Spring Security, Spring AI, Thymeleaf, Spring Boot JPA, QueryDSL
+- **Backend Frameworks & Library:** Spring Boot MVC, Spring Security, Spring AI, Spring Boot JPA, QueryDSL, Thymeleaf
 - **Cloud & DevOps:** AWS EC2, AWS Lambda, S3, API Gateway, ECS, Linux
 - **Database & Caching:** MySQL, MongoDB, Redis
 - **Containers & Orchestration:** Docker, Docker Compose
