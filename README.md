@@ -4,6 +4,7 @@ A dedicated Java backend developer with concentrated experience at a single star
 * Eliminated a key system bottleneck by implementing asynchronous API calls, **improving user latency by 2.6x** (from 1.3s to 0.5s).
 
 <br>
+
 ## 🚀 Skills & Tools
 
 - **Programming Language:** Java 17
@@ -18,6 +19,7 @@ A dedicated Java backend developer with concentrated experience at a single star
 - **CI/CD:** Jenkins, GitHub Actions
 
 <br>
+
 ## 🛠️ Tools in Use
 
 - **API & Documentation:** Postman, Swagger UI, REST Docs
@@ -25,12 +27,14 @@ A dedicated Java backend developer with concentrated experience at a single star
 - **Collaboration:** Jira, Slack, Discord
 
 <br>
+
 ## 📝 Featured Projects
 
 - [**Personal Tech Blog**](https://minshikkim.com/) : Sharing insights, tutorials, and thoughts on Sortware Development in tech.
 - [**Today I Learned (TIL)**](https://github.com/kmss6905/TIL) : A collection of concise daily learnings, tips, and study notes. This repository demonstrates my commitment to continuous growth and knowledge sharing.
 
 <br>
+
 ## 🏆 Certifications
 
 - AWS Certified Cloud Practitioner
