@@ -44,6 +44,7 @@ A dedicated Java backend developer with concentrated experience at a single star
 - JPT 730 (JLPT N1 90~130)
 
 <br>
+
 ## 🌏 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/minshikimdev/)
