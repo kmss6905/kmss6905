@@ -41,7 +41,7 @@ A dedicated Java backend developer with concentrated experience at a single star
 - SQLD (SQL Developer)
 - Engineer Information Processing (정보처리기사)
 - TOEIC 755 (English Proficiency)
-- JPT 730 (JLPT N1 90~130)
+- JLPT N1
 
 <br>
 
